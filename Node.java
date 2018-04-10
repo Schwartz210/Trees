@@ -1,7 +1,7 @@
 package com.company;
 
 public class Node {
-    // Basic node used for BinarySeatchTree and BinaryTree
+    // Basic node used for BinarySearchTree and BinaryTree
     private int mValue;
     private Node mLeftChild;
     private Node mRightChild;
